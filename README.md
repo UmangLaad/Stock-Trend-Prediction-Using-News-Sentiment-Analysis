@@ -1,7 +1,7 @@
 # Stock-Trend-Prediction-Using-News-Sentiment-Analysis
 This GitHub repository contains a Python project designed to automate the monitoring of financial markets and efficiently gather trading ideas. The project utilizes web scraping techniques, NLP-based summarization, and sentiment analysis to extract valuable insights from finance news articles and calculate sentiment for specific assets.
 
-# ABSTRACT
+## ABSTRACT
 
 The Efficient Market Hypothesis (EMH) is a widely recognized theory in finance that suggests 
 that all available information about a stock is already reflected in its current market price. 
