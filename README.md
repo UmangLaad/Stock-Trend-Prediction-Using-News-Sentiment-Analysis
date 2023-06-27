@@ -55,8 +55,8 @@ consequences in the dynamic and competitive world of the stock market.
 
 - Needed to automate monitoring of financial markets and gather trading ideas efficiently.
 - Developed a Python project to scrape finance news, perform NLP-based summarization, and calculate sentiment for specific assets.
-    --Used Python and BeautifulSoup for web scraping from sites like Yahoo Finance.
-    --Implemented a fine-tuned Hugging Face Pegasus Transformers model for automated summarization.
-    --Employed a pre-trained Transformers deep learning pipeline for sentiment analysis.
+- Used Python and BeautifulSoup for web scraping from sites like Yahoo Finance.
+- Implemented a fine-tuned Hugging Face Pegasus Transformers model for automated summarization.
+- Employed a pre-trained Transformers deep learning pipeline for sentiment analysis.
 
-The pipeline generates article summaries, conducts sentiment analysis for assets like Bitcoin, Ethereum, Tesla, and Gamestop, allows easy updates for more stocks/cryptocurrencies, and exports results to a CSV file for further analysis.
+- The pipeline generates article summaries, conducts sentiment analysis for assets like Bitcoin, Ethereum, Tesla, and Gamestop, allows easy updates for more stocks/cryptocurrencies, and exports results to a CSV file for further analysis.
