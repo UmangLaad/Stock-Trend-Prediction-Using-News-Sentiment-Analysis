@@ -9,7 +9,7 @@ According to EMH, it is impossible for an investor to consistently outperform th
 stock prices already reflect all known information.
 Despite the popularity of the EMH, there have been several instances where it has been 
 challenged and even shown to be flawed. This has led to a surge in research efforts aimed at 
-finding alternative methods for predicting stock trends. One such method involves using non-quantifiable data, such as financial news articles, to predict future stock trends.
+finding alternative methods for predicting stock trends. One such method involves using non-quantifiable data, such as financial news articles, to predict future stock trends.
 The idea behind this approach is that news articles can have a significant impact on stock market 
 performance. By analysing news sentiment and classifying it as positive, negative, or neutral, it 
 is possible to gain insights into how a particular company is perceived by the public and how this 
