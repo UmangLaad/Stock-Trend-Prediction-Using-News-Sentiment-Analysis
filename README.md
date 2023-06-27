@@ -25,3 +25,29 @@ processes, investors may be able to make more informed decisions and achieve bet
 Additionally, the project may shed light on the extent to which news sentiment influences stock 
 market performance and contribute to a deeper understanding of the complex relationship 
 between news and finance.
+
+## Problem Statement
+
+The stock market is a dynamic and complex environment where the value of securities fluctuates 
+rapidly and unpredictably. Traders in this market face numerous challenges, including keeping track 
+of all the information that could affect stock prices, predicting future trends accurately, and making 
+profitable trades. Technical and fundamental analyses are widely used approaches to predict stock 
+trends. However, their efficacy is debatable, and they may not always capture all the relevant factors 
+that affect stock prices.
+Active and Daily Traders often make rapid trades based on short-term trends in the market, which 
+requires them to make quick decisions based on the latest information available. However, this 
+information is often scattered across multiple news sources and can be difficult to keep track of in 
+real-time. This can lead to missed opportunities and reduced profitability.
+Another issue is the sheer volume of news articles that are produced every day. Traders and investors 
+need to be able to quickly identify the most relevant news articles and evaluate their potential impact 
+on stock prices. This can be a time-consuming process that may require them to filter through large amounts of irrelevant information. The sheer volume of news also poses a significant risk of 
+information overload. Traders and investors who are overwhelmed by the amount of information 
+available to them may struggle to make sense of it all, leading to analysis paralysis or decision 
+fatigue.
+In conclusion, the sheer volume of news articles produced every day is a significant challenge for 
+traders and investors who rely on timely and relevant information to make informed decisions. This 
+challenge requires the use of sophisticated news analysis tools and machine learning algorithms to 
+filter through the noise and identify relevant insights. Failure to do so can result in missed 
+opportunities and suboptimal investment decisions, which can have significant financial 
+consequences in the dynamic and competitive world of the stock market.
+
