@@ -60,3 +60,11 @@ consequences in the dynamic and competitive world of the stock market.
 - Employed a pre-trained Transformers deep learning pipeline for sentiment analysis.
 
 - The pipeline generates article summaries, conducts sentiment analysis for assets like Bitcoin, Ethereum, Tesla, and Gamestop, allows easy updates for more stocks/cryptocurrencies, and exports results to a CSV file for further analysis.
+
+## Input Screenshot
+<h4>The screenshot below shows an example of the input being given to the project in the form of stock ticker symbols. The system processes this input to scrape relevant finance news articles, generate summaries, and perform sentiment analysis for each specified asset.
+
+<img>![Screenshot (2432)](https://github.com/UmangLaad/Stock-Trend-Prediction-Using-News-Sentiment-Analysis/assets/81899965/658eccdd-001d-4504-813e-1f0bbfc7618c)
+
+
+
