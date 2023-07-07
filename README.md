@@ -63,7 +63,9 @@ consequences in the dynamic and competitive world of the stock market.
 
 ## Input Screenshot
 <h4>The screenshot below shows an example of the input being given to the project in the form of stock ticker symbols. The system processes this input to scrape relevant finance news articles, generate summaries, and perform sentiment analysis for each specified asset. 
-&nbsp;
+  
+<p>&nbsp;</p>
+
 ![Screenshot (2432)](https://github.com/UmangLaad/Stock-Trend-Prediction-Using-News-Sentiment-Analysis/assets/81899965/658eccdd-001d-4504-813e-1f0bbfc7618c)
 
 
